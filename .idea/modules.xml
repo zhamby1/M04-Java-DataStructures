@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueExample/QueueExample.iml" filepath="$PROJECT_DIR$/QueueExample/QueueExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sets Examples/Sets Examples.iml" filepath="$PROJECT_DIR$/Sets Examples/Sets Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackExample/StackExample.iml" filepath="$PROJECT_DIR$/StackExample/StackExample.iml" />
+    </modules>
+  </component>
+</project>
